@@ -1,4 +1,4 @@
-def add(x:Int, y:Int):Int = {
+def add(x:Int, y:Int) = {
   x + y
 }
 
