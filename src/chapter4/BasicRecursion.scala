@@ -3,7 +3,7 @@ def factorial(x:Int):BigInt = {
   else x * factorial(x - 1)
 }
 
-println(factorial(0))
-println(factorial(1))
-println(factorial(2))
-println(factorial(12))
+println(factorial(5))
+println(factorial(100))
+println(factorial(100))
+println(factorial(1000))
